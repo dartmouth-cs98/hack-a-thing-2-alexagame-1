@@ -302,6 +302,14 @@ module.exports = {
                 '15'
             ],
         },
+        {
+            'What does SWUG mean?': [
+                'Senior washed up girl/guy',
+                'A thug with too much swag',
+                'Society of Woke Undergraduates',
+                'A new way to say bug'
+            ],
+        },
     ],
     QUESTIONS_DE_DE: [
         {
